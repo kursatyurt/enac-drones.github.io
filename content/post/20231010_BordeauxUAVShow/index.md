@@ -1,5 +1,5 @@
 ---
-title: Real Fligths in Bordeaux UAV Show
+title: Real Flights in Bordeaux UAV Show
 date: 2023-10-10
 ---
 
