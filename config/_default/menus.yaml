@@ -1,0 +1,43 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  #- name: Tour
+  #  url: tour
+  #  weight: 10
+  - name: News
+    url: post
+    weight: 20
+  - name: About
+    identifier: about
+    weight: 30
+  - name: Team
+    parent: about
+    url: about/people
+    weight: 10
+  - name: Drones and UTM Chair
+    parent: about
+    url: about/chaire
+    weight: 15
+  - name: ENAC and Foundation
+    parent: about
+    url: about/enac_and_foundation
+    weight: 20
+  - name: Patrons
+    parent: about
+    url: about/patrons
+    weight: 20
+  # - name: Events
+  #   url: event
+  #   weight: 40
+  # - name: Research
+  #   url: research
+  #   weight: 41
+  - name: Publications
+    url: publication
+    weight: 50
+  - name: Contact
+    url: contact
+    weight: 60
