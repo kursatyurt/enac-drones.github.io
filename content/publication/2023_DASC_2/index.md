@@ -33,8 +33,8 @@ featured: true
 
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+    url: '#'
+url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -46,7 +46,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
