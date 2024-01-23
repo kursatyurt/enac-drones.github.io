@@ -34,14 +34,14 @@ featured: true
 links:
   - name: Custom Link
     url: '#'
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
+url_pdf: '/publication/2023_dasc_2/DASC23-preprint.pdf'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_source: '#'
+# url_video: '/publication/2023_dasc_2/featured.png'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
