@@ -1,6 +1,9 @@
+ENAC Airbus Sopra Steria Chaire Drone and UTM website content using 
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+
+<!-- [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
@@ -23,17 +26,17 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 - 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 - 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
 - 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases) -->
 
-## We ask you, humbly, to support this open source movement
+<!-- ## We ask you, humbly, to support this open source movement
 
 Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
 
 We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen) -->
 
-## Demo credits
+<!-- ## Demo credits
 
 Please replace the demo images with your own.
 
@@ -45,4 +48,4 @@ Please replace the demo images with your own.
   - https://unsplash.com/photos/OYzbqk2y26c
 - Avatars
   - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+  - https://unsplash.com/photos/WNoLnJo7tS8 -->
