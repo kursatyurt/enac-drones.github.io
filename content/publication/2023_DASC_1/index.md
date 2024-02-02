@@ -4,6 +4,7 @@ title: 'Automatic In Flight Conflict Resolution for Urban Air Mobility using Flu
 authors:
   - Zeynep_Bilgin
   - admin
+  - Ilkay Yavrucuk
 date: '2023-10-05T00:00:00Z'
 doi: ''
 
@@ -23,7 +24,7 @@ publication_short: In DASC 2023
 abstract: In this study, a vector field-based guidance algorithm is presented for tactical deconfliction in urban air mobility. The proposed guidance algorithm mimics fluid flow around obstacles to generate a vector field that guide vehicles through flight corridors while ensuring collision avoidance. The algorithm is flexible and can be tailored to fit the needs of current air traffic regulations. The conflict resolution and corridor following capability of the proposed method is evaluated through extensive flight test campaign. Flight tests are conducted in a scaled urban environment for two different scenarios {:} the conflict between of two medical drones in the same corridor and the conflict of an air taxi and a non-cooperative intruder. Both scenarios are tested on simple and complex shaped corridors using different corridor models, offering varying degrees of strictness and freedom of movement. Experimental results demonstrate the algorithm's ability to resolve conflicts and ensure safe navigation within designated corridors. The proposed guidance algorithm shows promise as a tool for tactical deconfliction and autonomous navigation in urban airspace.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A vector field-based guidance algorithm is presented for tactical deconfliction in urban air mobility.
 
 tags:
   - UTM
@@ -32,7 +33,7 @@ featured: true
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
