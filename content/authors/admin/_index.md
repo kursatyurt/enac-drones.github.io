@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Fluid Dynamics and Embedded Systems
       institution: ISAE/ENAC
       year: 2012
     - course: MEng in Aeronautical Engineering
