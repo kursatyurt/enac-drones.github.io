@@ -1,6 +1,7 @@
 ---
 title: Real Flights in Bordeaux UAV Show
 date: 2023-10-10
+authors: [admin, Balita_Rakotonarivo, Adrian_Del-Ser]
 url: bordeaux-uav-show-2023
 ---
 

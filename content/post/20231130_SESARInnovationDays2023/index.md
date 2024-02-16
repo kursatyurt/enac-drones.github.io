@@ -1,7 +1,7 @@
 ---
 title: SESAR Innovation Days 2023
 date: 2023-11-30
-authors: [Balita_Rakotonarivo]
+authors: [Balita_Rakotonarivo,admin]
 url: SESAR-innovation-days-2023
 ---
 

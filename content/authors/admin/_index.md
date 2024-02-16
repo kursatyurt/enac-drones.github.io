@@ -3,6 +3,8 @@
 title: Murat BRONZ
 # Checkout this url for more modifications : https://nickballou.com/blog/custom-wowchemy/
 
+weight: 100
+
 # Is this the primary user of the site?
 superuser: true
 
