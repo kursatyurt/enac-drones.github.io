@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Balita H. RAKOTONARIVO
+title: Balita RAKOTONARIVO
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Post-Doc Researcher
+role: Research Engineer, PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ social:
     link: 'mailto:balita.rakotonarivo@enac.fr'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/balita-rakotonarivo-ph-d-4594b3b3/
+    link: https://www.linkedin.com/in/balita-rakotonarivo/
   - icon: github
     icon_pack: fab
     link: https://github.com/RaBalita
@@ -78,6 +78,6 @@ user_groups:
   - Researchers
 ---
 
-Passionate about information technology, Balita began his career in 2007 in Madagascar, in aeronautical meteorology for air navigation safety. After a remote Master's degree in computer systems, he entered ENAC for the Advanced Master's degree in Air Navigation System Engineering and Operations in 2018. It was during this master's degree that he had a revelation regarding drones. He achieved a Ph.D. in Human-Machine Interaction for the safety of drone mission in the Specific category of operations.
+Passionate about information technology, Balita began his career in 2007 as a meteorologist for international air navigation. After a Master's degree in computer systems, he entered ENAC for the Advanced Master's degree in Air Navigation System Engineering and Operations in 2018 during which he had a revelation regarding drones. He earned a Ph.D. in Human-Machine Interaction for the safety of complex drone missions.
 
 He is in charge of regulatory expertise, the integration and development of new Unmanned Traffic Management services, and new approaches to both system architecture and research methods.  Balita's position combines Air Traffic Management, drones, and his passion for computer science. What interests him is exploring problems for which no one knows the solution yet in his domain as well as designing, developing, and evaluating software assisting real people.
