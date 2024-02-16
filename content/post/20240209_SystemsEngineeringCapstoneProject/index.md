@@ -2,6 +2,7 @@
 title: Systems Engineering Capstone Project, 2023
 date: 2024-02-09
 authors: [Balita_Rakotonarivo]
+url: systems-engineering-capstone-project-2023
 ---
 
 Systems Engineering Students:  [IATSED](https://www.enac.fr/en/master-international-air-transport-system-engineering-and-design-iatsed) _Ankush Kumar_ and _Ramkumar Narayanan_ teamed with [ENAC Engineers](https://www.enac.fr/en/enac-graduate-engineer-0) _Xiangyu Cao_ and _Lucas Le Menn_ for their Capstone project. 

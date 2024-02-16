@@ -2,13 +2,14 @@
 title: SESAR Innovation Days 2023
 date: 2023-11-30
 authors: [Balita_Rakotonarivo]
+url: SESAR-innovation-days-2023
 ---
 
 We attended SESAR Innovation Days 2023 and presented a poster.
 
 <!--more-->
 
-The [SESAR Innovation Days 2023](https://www.sesarju.eu/SIDS2023) took place in Seville, Spain from 27 till 30 November, hosted by the University of Seville at the Faculty of Engineering.
+The <a href="https://www.sesarju.eu/SIDS2023" target="_blank">SESAR Innovation Days 2023</a> took place in Seville, Spain from 27 till 30 November, hosted by the University of Seville at the Faculty of Engineering.
 
 During all _Exhibition break_ we presented our concept of [U-spaceChain](https://enac-drones.github.io/publication/2023_sid/).
 

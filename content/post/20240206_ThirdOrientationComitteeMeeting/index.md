@@ -2,6 +2,7 @@
 title: 3rd Orientation Comittee Meeting
 date: 2024-02-06
 authors: [Balita_Rakotonarivo]
+url: 3rd-co-meeting
 ---
 
 The 3rd CO was held in Sopra Steria quarters in Toulouse, on February, 06th.

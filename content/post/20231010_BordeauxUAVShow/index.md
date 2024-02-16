@@ -1,6 +1,7 @@
 ---
 title: Real Flights in Bordeaux UAV Show
 date: 2023-10-10
+url: bordeaux-uav-show-2023
 ---
 
 We participated to Bordeaux UAV Show with our micro U-space deployment !
