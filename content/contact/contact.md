@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: murat(dot)bronz(at)enac(dot)fr
+  # phone: 888 888 88 88
   address:
     street: 7 Avenue Edouard Belin
     city: Toulouse
@@ -38,20 +38,20 @@ content:
   #    name: Discuss on Forum
   #    link: 'https://discourse.gohugo.io'
 
-  # Automatically link email and phone or display as text?
-  autolink: true
+  # # Automatically link email and phone or display as text?
+  # autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # # Email form provider
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
 design:
   columns: '1'
 ---
 
-If you are willing to discuss your idea with us or want to visit us to see the facilities, please contact us by filling the form
+If you are willing to discuss your idea or want to visit us to see the facilities, please contact by mail.
