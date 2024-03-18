@@ -1,7 +1,9 @@
-ENAC Airbus Sopra Steria Chaire Drone and UTM website content using 
 
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# ENAC - Airbus - Sopra Stéria Drones & UTM Research Chair
 
+This repo contains ENAC Airbus Sopra Steria Chaire Drone and UTM website content using [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+
+To see the website live go to [Drone & UTM Research Chair](http://drone-chair.enac.fr/).
 
 <!-- [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
